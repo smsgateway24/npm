@@ -8,7 +8,7 @@ The SMS Service package provides a convenient way to send SMS messages and perfo
 To use this package in your project, you need to have Node.js installed. You can install the package via npm by running the following command:
 
 ```shell
-npm install sms-service
+npm install  sms-gateway24
 ```
 
 ## Usage
